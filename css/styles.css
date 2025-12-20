@@ -11013,9 +11013,10 @@ p {
   margin-bottom: 1rem;
   font-style: italic;
   color: #F1CC77;
-  font-weight: bold;
+  font-weight: bold; 
 }
 .list-hours .list-hours-item.today {
+  font-weight: bold;
 }
 @media (min-width: 992px) {
   .list-hours {
