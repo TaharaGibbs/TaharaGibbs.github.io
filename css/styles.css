@@ -11012,10 +11012,10 @@ p {
   padding-bottom: 0.25rem;
   margin-bottom: 1rem;
   font-style: italic;
-  color: #000000;
+  color: #F1CC77;
+  font-weight: bold;
 }
 .list-hours .list-hours-item.today {
-  font-weight: bold;
 }
 @media (min-width: 992px) {
   .list-hours {
